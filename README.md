@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -173,4 +174,12 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
