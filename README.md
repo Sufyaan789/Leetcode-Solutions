@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -26,6 +27,7 @@
 | [0049-group-anagrams](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -46,6 +48,7 @@
 | [0049-group-anagrams](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
@@ -104,6 +107,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
@@ -140,4 +144,16 @@
 | [0595-big-countries](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
