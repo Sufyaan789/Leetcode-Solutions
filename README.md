@@ -19,6 +19,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 ## Stack
 |  |
 | ------- |
@@ -163,4 +165,12 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
