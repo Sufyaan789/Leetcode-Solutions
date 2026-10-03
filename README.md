@@ -76,6 +76,7 @@
 | [0242-valid-anagram](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
@@ -135,6 +136,7 @@
 | [0045-jump-game-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0134-gas-station) |
+| [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -161,12 +163,14 @@
 | [0416-partition-equal-subset-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -254,6 +258,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 ## Depth-First Search
 |  |
 | ------- |
