@@ -16,6 +16,7 @@
 | [0055-jump-game](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0134-gas-station) |
@@ -257,6 +258,7 @@
 | [0048-rotate-image](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Combinatorics
 |  |
