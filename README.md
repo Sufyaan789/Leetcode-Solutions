@@ -48,6 +48,7 @@
 | [0076-minimum-window-substring](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0202-happy-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -134,6 +135,7 @@
 | [0042-trapping-rain-water](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0567-permutation-in-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0763-partition-labels) |
 ## Binary Search
@@ -254,6 +256,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0202-happy-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -311,4 +314,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
