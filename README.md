@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0057-insert-interval) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Union-Find
 |  |
@@ -305,4 +307,8 @@
 |  |
 | ------- |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
