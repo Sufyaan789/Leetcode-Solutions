@@ -77,6 +77,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -255,6 +256,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0062-unique-paths) |
@@ -317,6 +319,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
