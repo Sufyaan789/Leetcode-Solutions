@@ -183,6 +183,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -343,4 +344,5 @@
 | ------- |
 | [0136-single-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
