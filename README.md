@@ -96,6 +96,7 @@
 | [0567-permutation-in-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0763-partition-labels) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1143-longest-common-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
@@ -167,6 +168,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Dynamic Programming
@@ -201,6 +203,7 @@
 | [0020-valid-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -297,6 +300,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Depth-First Search
 |  |
 | ------- |
