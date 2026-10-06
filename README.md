@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0049-group-anagrams) |
@@ -243,6 +245,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
 ## Memoization
 |  |
