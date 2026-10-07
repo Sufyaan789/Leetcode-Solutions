@@ -42,6 +42,7 @@
 | [0518-coin-change-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0705-design-hashset](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0846-hand-of-straights](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -83,6 +84,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0846-hand-of-straights](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 ## String
@@ -115,16 +117,19 @@
 | [0190-reverse-bits](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -387,4 +392,16 @@
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0705-design-hashset) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
