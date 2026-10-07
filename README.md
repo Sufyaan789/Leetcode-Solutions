@@ -105,6 +105,7 @@
 | [0125-valid-palindrome](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -314,6 +315,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
@@ -328,6 +330,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |
