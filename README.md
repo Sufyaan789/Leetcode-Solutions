@@ -33,6 +33,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0312-burst-balloons) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -149,12 +150,14 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Union-Find
 |  |
@@ -374,6 +377,7 @@
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [2013-detect-squares](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2013-detect-squares) |
