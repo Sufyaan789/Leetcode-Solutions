@@ -19,6 +19,7 @@
 | [0056-merge-intervals](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0134-gas-station) |
@@ -79,6 +80,7 @@
 | [0015-3sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -165,6 +167,7 @@
 | [0015-3sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0202-happy-number) |
@@ -353,6 +356,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Sweep Line
 |  |
 | ------- |
@@ -412,4 +416,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
