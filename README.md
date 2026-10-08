@@ -49,6 +49,7 @@
 | [0706-design-hashmap](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -79,6 +80,7 @@
 | [0706-design-hashmap](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2013-detect-squares](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2013-detect-squares) |
@@ -161,6 +163,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 ## Matrix
 |  |
@@ -256,6 +259,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Queue
 |  |
 | ------- |
