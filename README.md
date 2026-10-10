@@ -58,6 +58,7 @@
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2013-detect-squares](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2013-detect-squares) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@
 | [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -211,6 +214,7 @@
 | [0268-missing-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -228,6 +232,7 @@
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
