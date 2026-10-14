@@ -227,6 +227,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -499,4 +500,8 @@
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
