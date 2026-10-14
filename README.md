@@ -87,6 +87,7 @@
 | [0706-design-hashmap](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0763-partition-labels](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
+| [0895-maximum-frequency-stack](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -277,6 +278,7 @@
 | [0042-trapping-rain-water](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0895-maximum-frequency-stack](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -436,6 +438,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0706-design-hashmap) |
+| [0895-maximum-frequency-stack](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [2013-detect-squares](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2013-detect-squares) |
 ## Data Stream
 |  |
@@ -485,4 +488,8 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
