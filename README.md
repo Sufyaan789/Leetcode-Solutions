@@ -97,6 +97,7 @@
 | [0846-hand-of-straights](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0846-hand-of-straights) |
 | [0895-maximum-frequency-stack](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0981-time-based-key-value-store](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2013-detect-squares](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2013-detect-squares) |
@@ -147,6 +148,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0981-time-based-key-value-store](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -242,6 +244,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -462,6 +465,7 @@
 | [0705-design-hashset](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+| [0981-time-based-key-value-store](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [2013-detect-squares](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2013-detect-squares) |
 ## Data Stream
 |  |
