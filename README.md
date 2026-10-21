@@ -45,6 +45,7 @@
 | [0238-product-of-array-except-self](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -233,6 +234,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
@@ -251,6 +253,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -480,6 +483,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Design
 |  |
 | ------- |
@@ -500,6 +504,7 @@
 | [0190-reverse-bits](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -561,4 +566,8 @@
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
