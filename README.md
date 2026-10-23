@@ -58,6 +58,7 @@
 | [0494-target-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0704-binary-search](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0706-design-hashmap) |
@@ -344,6 +345,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -489,6 +491,7 @@
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
+| [0622-design-circular-queue](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
@@ -524,6 +527,7 @@
 | [0141-linked-list-cycle](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
