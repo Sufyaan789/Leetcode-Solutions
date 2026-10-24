@@ -322,6 +322,7 @@
 | [0042-trapping-rain-water](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0394-decode-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -495,6 +496,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0622-design-circular-queue](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0622-design-circular-queue) |
