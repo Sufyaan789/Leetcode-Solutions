@@ -80,6 +80,7 @@
 | [1929-concatenation-of-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2013-detect-squares](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2013-detect-squares) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -219,11 +220,13 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1254-number-of-closed-islands](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -453,12 +456,14 @@
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
