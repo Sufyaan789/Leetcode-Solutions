@@ -340,6 +340,7 @@
 | [0735-asteroid-collision](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0895-maximum-frequency-stack](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -349,6 +350,7 @@
 | [0042-trapping-rain-water](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
@@ -522,11 +524,13 @@
 | [0705-design-hashset](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0706-design-hashmap) |
 | [0895-maximum-frequency-stack](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0895-maximum-frequency-stack) |
+| [0901-online-stock-span](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [2013-detect-squares](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2013-detect-squares) |
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [2013-detect-squares](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2013-detect-squares) |
 ## Bit Manipulation
 |  |
