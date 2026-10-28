@@ -29,6 +29,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0120-triangle](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -310,6 +311,7 @@
 | [0072-edit-distance](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0139-word-break) |
