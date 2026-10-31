@@ -84,6 +84,7 @@
 | [2013-detect-squares](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2013-detect-squares) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -229,6 +230,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1254-number-of-closed-islands](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Union-Find
 |  |
 | ------- |
@@ -332,6 +334,7 @@
 | [0518-coin-change-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [3665-twisted-mirror-path-count](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
 |  |
 | ------- |
