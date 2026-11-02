@@ -177,6 +177,7 @@
 | [1143-longest-common-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [2390-removing-stars-from-a-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
@@ -367,6 +368,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -548,6 +550,7 @@
 | [0682-baseball-game](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
