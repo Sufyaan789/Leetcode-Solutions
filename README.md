@@ -79,6 +79,7 @@
 | [1095-find-in-mountain-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1254-number-of-closed-islands](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -147,6 +148,7 @@
 | [0881-boats-to-save-people](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## String
@@ -271,6 +273,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
 |  |
@@ -293,6 +296,7 @@
 | [0981-time-based-key-value-store](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
