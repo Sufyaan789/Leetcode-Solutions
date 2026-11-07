@@ -90,6 +90,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -128,6 +129,7 @@
 | [2747-count-zero-request-servers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Sorting
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [0229-majority-element-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2013-detect-squares](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2013-detect-squares) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Quickselect
 |  |
 | ------- |
@@ -323,6 +326,7 @@
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
 ## Dynamic Programming
 |  |
