@@ -491,6 +491,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0077-combinations) |
 | [0301-remove-invalid-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Bracket Sequences
