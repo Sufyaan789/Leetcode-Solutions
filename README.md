@@ -91,6 +91,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
@@ -366,6 +367,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3665-twisted-mirror-path-count](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
