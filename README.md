@@ -83,6 +83,7 @@
 | [1267-count-servers-that-communicate](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1695-maximum-erasure-value](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -243,6 +244,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -369,6 +371,7 @@
 | [0518-coin-change-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1143-longest-common-subsequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3665-twisted-mirror-path-count](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
@@ -492,6 +495,7 @@
 | [0268-missing-number](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0371-sum-of-two-integers) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Combinatorics
