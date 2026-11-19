@@ -90,6 +90,7 @@
 | [1929-concatenation-of-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2013-detect-squares](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2013-detect-squares) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -162,6 +163,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2747-count-zero-request-servers) |
 ## String
 |  |
@@ -339,6 +341,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3557-find-maximum-number-of-non-intersecting-substrings](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3557-find-maximum-number-of-non-intersecting-substrings) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3914-minimum-operations-to-make-array-non-decreasing](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3914-minimum-operations-to-make-array-non-decreasing) |
