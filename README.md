@@ -541,6 +541,7 @@
 | [0100-same-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -556,6 +557,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -717,6 +719,7 @@
 | [0100-same-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
@@ -732,6 +735,7 @@
 | [0100-same-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
