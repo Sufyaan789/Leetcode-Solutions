@@ -85,6 +85,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1631-path-with-minimum-effort](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1695-maximum-erasure-value](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1899-merge-triplets-to-form-target-triplet) |
@@ -218,6 +219,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -264,6 +266,7 @@
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1254-number-of-closed-islands](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Union-Find
@@ -272,6 +275,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1254-number-of-closed-islands](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -322,6 +326,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1631-path-with-minimum-effort](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
@@ -551,6 +556,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0572-subtree-of-another-tree) |
 | [1254-number-of-closed-islands](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
@@ -563,6 +569,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -765,4 +772,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
