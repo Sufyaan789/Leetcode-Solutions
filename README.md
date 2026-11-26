@@ -511,6 +511,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3360-stone-removal-game](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Combinatorics
@@ -612,6 +613,7 @@
 | [0735-asteroid-collision](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/Sufyaan789/Leetcode-Solutions/tree/master/3360-stone-removal-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
